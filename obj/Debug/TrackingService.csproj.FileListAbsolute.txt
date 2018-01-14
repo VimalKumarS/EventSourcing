@@ -1,0 +1,1 @@
+C:\Dexter\Practice\Article_src\EventSourcingSln\TrackingService\bin\Debug\TrackingService.exe.config
